@@ -10,3 +10,4 @@
 2021-09-19 21:46:21,322 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2021-09-19 21:46:21,332 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-19 21:46:21,332 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/GitHub/curriculum_1/JavaStudy/demo/src/test/resources
+2021-09-21 19:43:33,603 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
