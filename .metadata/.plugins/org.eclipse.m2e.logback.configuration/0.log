@@ -11,3 +11,26 @@
 2021-09-19 21:46:21,332 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-09-19 21:46:21,332 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/GitHub/curriculum_1/JavaStudy/demo/src/test/resources
 2021-09-21 19:43:33,603 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-24 12:39:55,926 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-24 12:40:08,494 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:40:08,502 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-24 12:40:08,526 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-24 12:40:08,541 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:40:08,541 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/GitHub/curriculum_1/JavaStudy/demo/src/test/resources
+2021-09-24 12:49:40,141 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-24 12:49:53,204 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:49:53,215 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-24 12:49:53,248 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-24 12:49:53,255 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:49:53,255 [Worker-2: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/GitHub/curriculum_1/JavaStudy/demo/src/test/resources
+2021-09-24 12:50:56,579 [Worker-6: ビルド] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ /Users/kurodashotaro/Desktop/CafeOfYI/KiofySystem/demo/pom.xml.
+2021-09-24 12:50:59,533 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:50:59,534 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-24 12:50:59,563 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-24 12:50:59,626 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:50:59,626 [Worker-6: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/CafeOfYI/KiofySystem/demo/src/test/resources
+2021-09-24 12:51:02,220 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:51:02,229 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-24 12:51:02,232 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2021-09-24 12:51:02,251 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-09-24 12:51:02,253 [Worker-3: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/kurodashotaro/Desktop/CafeOfYI/KiofySystem/demo/src/test/resources
