@@ -10,10 +10,6 @@
 <body>
 <h2>ユーザー情報管理画面</h2>
 <form th:action="@{/login}" method="post">
-    <div th:if="${session['SPRING_SECURITY_LAST_EXCEPTION']} != null"
-         class="alert-danger">
-        <span th:text="ユーザ名またはパスワードに誤りがあります"></span>
-    </div>
     <div style="width:160px;"><label for="username">ユーザ名：</label></div>
     <input type="text" name="username" autofocus="autofocus" />
     <br/>
