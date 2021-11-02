@@ -36,6 +36,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         .userDetailsService(userService)
         .passwordEncoder(passwordEncoder());
 
+        //shotaro 01 下記を書き換えて登録できるようにする
+        
         if (userService.findAllList().isEmpty()) {
             userService.registerAdmin("admin", "secret", "admin@localhost");
             userService.registerManager("manager", "secret", "manager@localhost");

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="utf-8" />
+    <title>Create page</title>
+    <style>
+.alert-danger{color:red;}
+</style>
+</head>
+<body>
+<h2>新規登録画面</h2>
+<form th:action="@{/create}" method="post">
+    <div th:if="${session['SPRING_SECURITY_LAST_EXCEPTION']} != null"
+         class="alert-danger">
+        <span th:text="ユーザ名またはパスワードに誤りがあります"></span>
+    </div>
+    <div style="width:160px;"><label for="username">ユーザ名：</label></div>
+    <input type="text" name="username" autofocus="autofocus" />
+    <br/>
+    <div style="width:160px;"><label for="id">ID：</label></div>
+    <input type="text" name="id"/>
+    <br/>
+    <div style="width:160px;"><label for="password">パスワード：</label></div>
+    <input type="password" name="password" />
+    <br/>
+    <p><input type="submit" value="新規登録" /></p>
+
+</form>
+</body>
+</html>
